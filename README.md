@@ -8,6 +8,7 @@ To get started, simply add your name down below, along with the country you're f
 
 ---
 
+- Dinesh S, India
 - Atharva Shah, India
 - Guy K., Tel Aviv, Israel
 - Matt F., Florida, United States
